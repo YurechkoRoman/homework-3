@@ -11,7 +11,7 @@ header, footer {padding: 30px; text-align: center;}
 
 p {color: rgba(255, 255, 255, 0.6);}
 
-.forecast_list {margin: 0 auto;
+.forecast_list {margin: 0 auto; cursor: pointer;
 		max-width: 1024px; text-align: center;}
 
 ul, li {display: inline-block;
